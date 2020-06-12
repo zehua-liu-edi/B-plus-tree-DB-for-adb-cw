@@ -1,0 +1,6 @@
+insert 10 23
+scan -1 -1
+delete 10 18
+deletescan -1 -1
+print
+quit
